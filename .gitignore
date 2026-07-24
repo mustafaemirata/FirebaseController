@@ -1,0 +1,8 @@
+# Environment variables
+.env
+
+# Firebase credentials
+firebase_key.json
+
+# Mac OS
+.DS_Store
