@@ -8,6 +8,10 @@ FirebaseController, Firebase veritabanınızdaki kullanıcı istatistiklerini ve
 Kullanıcı tarafından girilen doğal dil sorgularının işlendiği ve sonuçların gösterildiği ana ekran.
 ![Chat Ekranı](assets/chat.png)
 
+### Firestore Ekranı
+Oyunun tüm veritabanını uygulama içerisinde filtreleyerek arama imkanı sunan, JSON ve tablo formatında değiştirilmesini kolaylaştıran ekran.
+![Firestore Ekranı](assets/firestore.png)
+
 ### Hızlı İşlemler ve Kullanıcı Listesi
 Sol paneldeki hızlı işlem butonları aracılığıyla otomatik sorguların çalıştırıldığı ve detaylı kullanıcı verilerinin listelendiği ekran.
 ![Kullanıcılar Ekranı](assets/kullanicilar.png)
