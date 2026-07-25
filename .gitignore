@@ -6,3 +6,14 @@ firebase_key.json
 
 # Mac OS
 .DS_Store
+
+# Python
+__pycache__/
+*.pyc
+venv/
+
+# PyInstaller
+build/
+dist/
+*.spec
+
